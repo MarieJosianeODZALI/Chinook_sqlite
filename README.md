@@ -1,10 +1,10 @@
 # Chinook_sqlite
 Projet SQL – Base Chinook 
 
-Objectif : Pratiquer les bases et les notions intermédiaires de SQL avec la base Chinook (MySQL), à travers des exercices progressifs
+Objectif : Pratiquer les notions de SQL avec la base Chinook (MySQL), à travers des exercices progressifs
 
 Outils :
-- MySQL  
+- Sqlite 
 - DBeaver  
 - GitHub
 
